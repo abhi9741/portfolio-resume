@@ -175,7 +175,7 @@ txt3('Model deployment', '`streamlit`, `Heroku`')
 
 #####################
 st.markdown('''
-## Social Media
+## Social
 ''')
 txt2('LinkedIn', 'https://www.linkedin.com/in/abhinavreddyn/')
 txt2('Twitter', 'https://twitter.com/abhinav_nimma')
