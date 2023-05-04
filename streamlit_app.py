@@ -149,7 +149,7 @@ st.markdown('''
 
 #####################
 st.markdown('''
-## projects
+## Projects
 ''')
 txt4('Energy Use Intensity Forecaster', 'A web application for the forecasting energy usage intensity of a site based on building characteristics and weather conditions', 'https://energy-intensity-forecast.streamlit.app/')
 txt4('Background Eraser', 'A web application for erasing background out of an image using deep learning based computer vision techniques', 'https://background-eraser.streamlit.app/')
