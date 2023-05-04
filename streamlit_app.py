@@ -154,10 +154,14 @@ st.markdown('''
 txt4('Energy Use Intensity Forecaster', 'A web application for the forecasting energy usage intensity of a site based on building characteristics and weather conditions', 'https://energy-intensity-forecast.streamlit.app/')
 txt4('Background Eraser', 'A web application for erasing background out of an image using deep learning based computer vision techniques', 'https://background-eraser.streamlit.app/')
 txt4('Stock Forecaster', 'A realtime live dashboard for the prediction and analysis of stocks','https://stock-forecast-web.streamlit.app/')
+txt4('Generative AI for realistic material appearance', 'Developing GANs for realistic image synthesis with a particular focus on gloss, translucency and studying the latent space of the models for feature representation','results will be shared after publication')
+txt4('Uncertainty estimation in learning-based image quality metrics', 'Developed novel technique to estimate the uncertainty in learning-based image quality metrics, as part of exlainable AI', 'results will be shared after publication')
+txt4('Organic waste classification', 'Deep ConvNets for classifying organic waste images from non organic ones', 'https://github.com/abhi9741/Organic-Waste-Classification-from-Images-of-Waste')
+txt4('Detecting Eye Disease-using Deep Learning', '/  Experimenting with different architectures and techniques to improve classification accuracy in Diabetic Retinopathy', 'https://github.com/abhi9741/Detecting-Eye-Disease-using-Deep-Learning')
+txt4('Market Segmentation on E-Commerce Sales Data', '/Segmenting existing customers into various sub-groups based on shared characteristics based on order records from an E-Commerce portal)', 'https://github.com/abhi9741/Market-Segmentation-with-Machine-Learning-from-E-Commerce-Sales-Data')
+txt4('Role of Segmentation in Skin Lesion Classification', '/Experimenting with traditional and deep learning based segmentation techniques to understnad the influence of segmentation on skin lesion classification task', 'https://github.com/abhi9741/Role-of-Segementation-in-Skin-Lesion-Classification')
 txt4('Weak Supervision for Capsule Endoscopy', 'Researching weak supervision techniques for geenrating pixel-level semantic segemntation masks from trainig data containing only image-level bounding box labels', '')
-txt4('Generative AI for realistic material appearance', 'Developing GANs for realistic image synthesis with a particular focus on gloss, translucency and studying the latent space of the models for feature representation','')
-txt4('Uncertinity estimation in learning-based image quality metrics', 'Developed novel technique to estimate the uncertainty in learning-based image quality metrics, as part of exlainable AI', '')
-txt4('Organic waste classification', 'Deep ConvNets for classifying organic waste images from non organic ones', '')
+
 
 
 
