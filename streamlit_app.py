@@ -151,9 +151,9 @@ st.markdown('''
 st.markdown('''
 ## Projects
 ''')
-txt4('Energy Use Intensity Forecaster', 'A web application for the forecasting energy usage intensity of a site based on building characteristics and weather conditions', 'https://energy-intensity-forecast.streamlit.app/')
-txt4('Background Eraser', 'A web application for erasing background out of an image using deep learning based computer vision techniques', 'https://background-eraser.streamlit.app/')
-txt4('Stock Forecaster', 'A realtime live dashboard for the prediction and analysis of stocks','https://stock-forecast-web.streamlit.app/')
+txt4('Energy Use Intensity Forecaster', 'A web application for the forecasting energy usage intensity of a site based on building characteristics and weather conditions. Demonstrating end-to-end ML workflow.', 'https://energy-intensity-forecast.streamlit.app/')
+txt4('Background Eraser', 'A web application for erasing background out of an image using deep learning based computer vision techniques. Demonstrating end-to-end ML workflow.', 'https://background-eraser.streamlit.app/')
+txt4('Stock Forecaster', 'A realtime live dashboard for the prediction and analysis of stocks. Demonstrating end-to-end ML workflow.','https://stock-forecast-web.streamlit.app/')
 txt4('Generative AI for realistic material appearance', 'Developing GANs for realistic image synthesis with a particular focus on gloss, translucency and studying the latent space of the models for feature representation','results will be shared after publication')
 txt4('Uncertainty estimation in learning-based image quality metrics', 'Developed novel technique to estimate the uncertainty in learning-based image quality metrics, as part of exlainable AI', 'results will be shared after publication')
 txt4('Organic waste classification', 'Deep ConvNets for classifying organic waste images from non organic ones', 'https://github.com/abhi9741/Organic-Waste-Classification-from-Images-of-Waste')
