@@ -16,9 +16,7 @@ st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
-- With a passion for Machine Learning and programming, I am dedicated to designing and developing intelligent systems that learn autonomously from data.
-- Expertise in end-to-end ML workflows and experience in solving real-world challenges make me a valuable asset to any team.
-- With my creativity and passion for innovation, I am always eager to tackle new challenges and find innovative solutions.
+With a passion for Machine Learning and programming, I am committed to designing and developing intelligent systems that learn autonomously from data. Expertise in end to end ML workflows and experience in solving real world problems make me a valuable asset to any team. With my creativity and Passion for innovation, I am always eager to tackle new challenges and find innovative solutions to transform data into information and information into insights.
 ''')
 
 #####################
